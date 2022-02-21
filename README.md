@@ -1,6 +1,6 @@
 # React Recipe App
 * Get the desired recipe via API
-* LIVE 
+* LIVE https://recipeapplication1.netlify.app/
 
 # Technologies used:
 * <a href="https://reactjs.org/">JavaScript(React)</a> 
