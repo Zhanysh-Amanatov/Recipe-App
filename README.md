@@ -3,7 +3,7 @@
 * LIVE https://recipeapplication1.netlify.app/
 
 # Technologies used:
-* <a href="https://reactjs.org/">JavaScript(React)</a> 
+* <a href="https://reactjs.org/" target="_blank">JavaScript(React)</a> 
 * <a href="https://mui.com/getting-started/installation/">Material UI</a>
 * <a href="https://www.edamam.com/">API</a>
 * <a href="https://www.netlify.com/">Netlify</a> 
